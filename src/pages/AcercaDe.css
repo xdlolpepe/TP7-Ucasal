@@ -1,0 +1,17 @@
+.acerca {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.acerca h1 {
+  color: #1a1a1a;
+  margin-bottom: 16px;
+}
+
+.acerca p {
+  color: #555;
+  font-size: 14px;
+  line-height: 1.7;
+}
