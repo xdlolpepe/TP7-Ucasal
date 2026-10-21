@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP7-Ucasal/static/css/main.534e0335.css",
+    "main.js": "/TP7-Ucasal/static/js/main.b00bf9a0.js",
+    "index.html": "/TP7-Ucasal/index.html",
+    "main.534e0335.css.map": "/TP7-Ucasal/static/css/main.534e0335.css.map",
+    "main.b00bf9a0.js.map": "/TP7-Ucasal/static/js/main.b00bf9a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.534e0335.css",
+    "static/js/main.b00bf9a0.js"
+  ]
+}
